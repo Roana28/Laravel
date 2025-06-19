@@ -1,6 +1,7 @@
 # PROJECT 
 ### ROANA | MAGANG | FULLSTACK DEVELOPER |
-![login](https://github.com/user-attachments/assets/cd2de2ae-6ab1-42f3-a25d-ed175d792486)
+![banner-logo](https://github.com/user-attachments/assets/01523f1d-d02d-460a-b457-73f7eaeaa5c0)
+
 
 
 ## | SISTEM INFORMASI ABSENSI KARYAWAN BERBASIS WEB FRAMEWORK LARAVEL DI PT WINNICODE GARUDA TEKNOLOGI |

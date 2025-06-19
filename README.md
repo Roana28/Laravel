@@ -1,4 +1,8 @@
 # PROJECT 
+### ROANA | MAGANG | FULLSTACK DEVELOPER |
+![login](https://github.com/user-attachments/assets/cd2de2ae-6ab1-42f3-a25d-ed175d792486)
+
+
 ## | SISTEM INFORMASI ABSENSI KARYAWAN BERBASIS WEB FRAMEWORK LARAVEL DI PT WINNICODE GARUDA TEKNOLOGI |
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:

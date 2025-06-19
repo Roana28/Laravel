@@ -6,8 +6,7 @@
 
 # | SISTEM INFORMASI ABSENSI KARYAWAN BERBASIS WEB FRAMEWORK LARAVEL DI PT WINNICODE GARUDA TEKNOLOGI |
 
-Absensi karyawan merupakan bagian krusial dalam pengelolaan sumber daya manusia (SDM) di sebuah perusahaan. Kedisiplinan karyawan dalam hal kehadiran sangat berpengaruh terhadap produktivitas dan performa kerja perusahaan secara keseluruhan. Namun, dalam banyak kasus, proses absensi yang masih dilakukan secara manual sering kali menimbulkan berbagai permasalahan, seperti ketidakakuratan data, manipulasi kehadiran, serta sulitnya melakukan rekapitulasi data untuk kebutuhan pelaporan.
-Absensi manual yang bergantung pada tanda tangan atau mesin fingerprint konvensional memiliki beberapa kelemahan utama:
+## Absensi karyawan merupakan bagian krusial dalam pengelolaan sumber daya manusia (SDM) di sebuah perusahaan. Kedisiplinan karyawan dalam hal kehadiran sangat berpengaruh terhadap produktivitas dan performa kerja perusahaan secara keseluruhan. Namun, dalam banyak kasus, proses absensi yang masih dilakukan secara manual sering kali menimbulkan berbagai permasalahan, seperti ketidakakuratan data, manipulasi kehadiran, serta sulitnya melakukan rekapitulasi data untuk kebutuhan pelaporan.Absensi manual yang bergantung pada tanda tangan atau mesin fingerprint konvensional memiliki beberapa kelemahan utama:
 
 ### Human Error Kesalahan pencatatan akibat kelalaian atau kekeliruan manusia.
 ### Data Tidak Real-Time – Data kehadiran biasanya diproses secara berkala, sehingga informasi yang dihasilkan tidak selalu up-to-date.

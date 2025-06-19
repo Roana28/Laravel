@@ -17,13 +17,13 @@ Dalam menghadapi tantangan tersebut, perusahaan membutuhkan solusi berbasis tekn
 
 
 ## INSTALASI LARAVEL
-
+![instalasi laravel 10](https://github.com/user-attachments/assets/9abe20bc-0198-4d03-bd2a-a686603383c9)
 ## MEMBUAT UI UNTUK USER
-
+![admin](https://github.com/user-attachments/assets/15d71827-0a95-49b0-8fd6-ad41a5229b5c)
 ## MEMBUAT DATABESE ABSENSI
-
+![data karyawan](https://github.com/user-attachments/assets/34cb31e5-1fc7-43fd-bf82-c6cc218508ca)
 ## MEMBUAT PROSES LOGIN UNTUK USER
-
+![tampilan login](https://github.com/user-attachments/assets/be9be09c-ad02-4e72-b8d3-4bfac5b5508d)
 ## MEMBUAT DESIGN HALAMAN ABSENSI GPS DAN FOTO SELFIE
 
 ## MENAMPILKAN PETA GOOGLE MAPS USER
@@ -34,15 +34,16 @@ Dalam menghadapi tantangan tersebut, perusahaan membutuhkan solusi berbasis tekn
 
 ## MEMBUAT VALIDASI RADIUS KANTOR
 
-## MENAMPILKAN DATA ABSENSO DI DASHBOARD
+## MENAMPILKAN DATA ABSENSI DI DASHBOARD
 
 ## MENAMBAHKAN LEADERBOARD ABSENSI DI HALAMAN DASHBOARD
 
 ## EDIT PROFILE | UPDATE PASSWORD | UPDATE FOTO PROFIL
-
+![halaman edit profil](https://github.com/user-attachments/assets/3111b08b-c235-42a1-8eea-f09748840388)
 ## MEMBUAT HISTORI ABSENSI
+![histori tahun absensi](https://github.com/user-attachments/assets/61d9c3cf-29d7-4e78-9064-47bcb1f0ee13)
+![histori bulan absensi](https://github.com/user-attachments/assets/6dad452f-1321-44f5-aa14-f00bf14f8cc4)
 
-![tampilan login](https://github.com/user-attachments/assets/be9be09c-ad02-4e72-b8d3-4bfac5b5508d)
 ![tabel absensi](https://github.com/user-attachments/assets/7232d4dc-9772-4428-8c3e-6600a5e71c77)
 
 
@@ -54,12 +55,10 @@ https://github.com/user-attachments/assets/21fdb370-cfaf-42b6-b4be-a92c424bb1fe
 
 ![klik absen pulang](https://github.com/user-attachments/assets/84f187fc-371e-453f-b676-9bc487b8664c)
 ![klik absen masuk](https://github.com/user-attachments/assets/bd654569-2da5-40ea-9962-f6d218d27743)
-![instalasi laravel 10](https://github.com/user-attachments/assets/9abe20bc-0198-4d03-bd2a-a686603383c9)
-![histori tahun absensi](https://github.com/user-attachments/assets/61d9c3cf-29d7-4e78-9064-47bcb1f0ee13)
-![histori bulan absensi](https://github.com/user-attachments/assets/6dad452f-1321-44f5-aa14-f00bf14f8cc4)
+
 ![halaman manager melihat user](https://github.com/user-attachments/assets/94bc0175-ab62-4e88-bbd6-98f01cb50222)
-![halaman edit profil](https://github.com/user-attachments/assets/3111b08b-c235-42a1-8eea-f09748840388)
-![data karyawan](https://github.com/user-attachments/assets/34cb31e5-1fc7-43fd-bf82-c6cc218508ca)
+
+
 ![data histori absensi](https://github.com/user-attachments/assets/284393dd-dc18-48b6-a9b3-bb57d1962bc3)
 ![data absensi hari kehari](https://github.com/user-attachments/assets/975f8149-bb50-4675-91ec-a45715543916)
 ![dashboard](https://github.com/user-attachments/assets/559f985b-5412-4d78-b2e1-b7ce208ac8c5)
@@ -67,8 +66,4 @@ https://github.com/user-attachments/assets/21fdb370-cfaf-42b6-b4be-a92c424bb1fe
 ![admin](https://github.com/user-attachments/assets/15d71827-0a95-49b0-8fd6-ad41a5229b5c)
 ![absen out](https://github.com/user-attachments/assets/64789ea7-ca15-4f27-953a-ef9d367dd114)
 ![absen in](https://github.com/user-attachments/assets/5f8d47ab-a35b-43bd-a3c8-a3bdf91bca49)
-
-
-
-
 

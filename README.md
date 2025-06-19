@@ -17,6 +17,21 @@ Dalam menghadapi tantangan tersebut, perusahaan membutuhkan solusi berbasis tekn
 
 
 ## INSTALASI LARAVEL
+## 🛠️ 1. Instalasi Laravel
+
+Proyek dimulai dengan menginstal Laravel menggunakan Composer:
+
+```
+composer create-project laravel/laravel presensiApp
+```
+
+Selanjutnya dilakukan:
+- Konfigurasi `.env` (nama database, user, password, timezone, dsb).
+- Instalasi dependensi tambahan (`composer install`).
+- Migrasi database awal (`php artisan migrate`).
+- Pembuatan symbolic link untuk menyimpan foto (`php artisan storage:link`).
+- Menjalankan server lokal menggunakan `php artisan serve`.
+
 ![instalasi laravel 10](https://github.com/user-attachments/assets/9abe20bc-0198-4d03-bd2a-a686603383c9)
 ## MEMBUAT UI UNTUK USER
 ![dashboard](https://github.com/user-attachments/assets/559f985b-5412-4d78-b2e1-b7ce208ac8c5)

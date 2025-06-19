@@ -34,10 +34,12 @@ Dalam menghadapi tantangan tersebut, perusahaan membutuhkan solusi berbasis tekn
 ![dashboard after absen](https://github.com/user-attachments/assets/ae49c9ee-a2b3-4fc7-b2fb-6f6ae5bd63a1)
 
 ## MEMBUAT NOTIFIKASI AUDIO
+https://github.com/user-attachments/assets/21fdb370-cfaf-42b6-b4be-a92c424bb1fe
 
 ## MEMBUAT VALIDASI RADIUS KANTOR
 ![klik absen pulang](https://github.com/user-attachments/assets/84f187fc-371e-453f-b676-9bc487b8664c)
 ![klik absen masuk](https://github.com/user-attachments/assets/bd654569-2da5-40ea-9962-f6d218d27743)
+https://github.com/user-attachments/assets/5b29d18f-09d9-45f2-b108-f828f49ebdb7
 ## MENAMPILKAN DATA ABSENSI DI DASHBOARD
 ![admin](https://github.com/user-attachments/assets/15d71827-0a95-49b0-8fd6-ad41a5229b5c)
 ## MENAMBAHKAN LEADERBOARD ABSENSI DI HALAMAN DASHBOARD
@@ -55,12 +57,9 @@ Dalam menghadapi tantangan tersebut, perusahaan membutuhkan solusi berbasis tekn
 
 
 
-https://github.com/user-attachments/assets/5b29d18f-09d9-45f2-b108-f828f49ebdb7
 
 
 
-
-https://github.com/user-attachments/assets/21fdb370-cfaf-42b6-b4be-a92c424bb1fe
 
 
 

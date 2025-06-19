@@ -105,7 +105,9 @@ Menggunakan rumus Haversine untuk:
 Contoh radius: 100–300 meter.
 ![klik absen pulang](https://github.com/user-attachments/assets/84f187fc-371e-453f-b676-9bc487b8664c)
 ![klik absen masuk](https://github.com/user-attachments/assets/bd654569-2da5-40ea-9962-f6d218d27743)
+
 https://github.com/user-attachments/assets/5b29d18f-09d9-45f2-b108-f828f49ebdb7
+
 ## MENAMPILKAN DATA ABSENSI DI DASHBOARD
 Data rekap ditampilkan dalam bentuk **card**:
 - Jumlah Hadir
@@ -113,7 +115,9 @@ Data rekap ditampilkan dalam bentuk **card**:
 - Profil
 - Histori
 Filter berdasarkan bulan aktif dan ditarik dari tabel `absensi`.
+
 ![admin](https://github.com/user-attachments/assets/15d71827-0a95-49b0-8fd6-ad41a5229b5c)
+
 ## MENAMBAHKAN LEADERBOARD ABSENSI DI HALAMAN DASHBOARD
 
 Leaderboard menunjukkan peringkat kehadiran:

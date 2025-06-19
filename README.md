@@ -13,7 +13,7 @@
 ### Sulit Dilakukan Evaluasi – Dalam jangka panjang, sulit untuk melakukan evaluasi terhadap kinerja dan kedisiplinan karyawan karena data tidak terorganisir dengan baik.
 ### Manipulasi Data – Potensi terjadinya kecurangan seperti titip absen atau pengeditan data absensi.
 
-Dalam menghadapi tantangan tersebut, perusahaan membutuhkan solusi berbasis teknologi yang mampu meningkatkan efisiensi dan akurasi dalam pengelolaan kehadiran karyawan. Oleh karena itu, pengembangan Sistem Informasi Absensi Karyawan Berbasis Web menjadi salah satu solusi efektif untuk menjawab permasalahan tersebut. Sistem ini memungkinkan pencatatan absensi secara otomatis, real-time, dan aman. Dengan menggunakan sistem berbasis web, proses pencatatan kehadiran dapat diakses kapan saja dan di mana saja, sehingga mempermudah pengelolaan dan pengawasan kinerja karyawan.
+### Dalam menghadapi tantangan tersebut, perusahaan membutuhkan solusi berbasis teknologi yang mampu meningkatkan efisiensi dan akurasi dalam pengelolaan kehadiran karyawan. Oleh karena itu, pengembangan Sistem Informasi Absensi Karyawan Berbasis Web menjadi salah satu solusi efektif untuk menjawab permasalahan tersebut. Sistem ini memungkinkan pencatatan absensi secara otomatis, real-time, dan aman. Dengan menggunakan sistem berbasis web, proses pencatatan kehadiran dapat diakses kapan saja dan di mana saja, sehingga mempermudah pengelolaan dan pengawasan kinerja karyawan.
 
 
 ## INSTALASI LARAVEL
